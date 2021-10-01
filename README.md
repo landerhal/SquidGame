@@ -1,2 +1,1 @@
-# SquirtGame
-Let's Squirt
+# squirtgame
